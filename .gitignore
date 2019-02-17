@@ -1,0 +1,47 @@
+build/*
+!build/readme.md
+design/
+src/scss/style.scss
+src/blocks/sprite-svg/img/sprite-svg.svg
+src/blocks/sprite-png/sprite-png.scss
+src/blocks/sprite-png/img/sprite-*.png
+
+.Saved/
+_arc/
+bower_components/
+node_modules/
+package-lock.json
+.vscode/
+.DS_Store
+*.log
+*.sublime-*
+*.rar
+*.zip
+.idea
+.publish
+ex_files
+### Windows ###
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# Dump file
+*.stackdump
+
+# Folder config file
+[Dd]esktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+__MACOSX

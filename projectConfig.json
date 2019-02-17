@@ -1,0 +1,24 @@
+{
+  "blocks": {
+    "all": []
+  },
+  "addCssBefore": [
+    "../../node_modules/normalize.css/normalize.css",
+    "../../src/css/reset.css",
+    "./src/scss/variables.scss",
+    "./src/scss/mixins.scss",
+    "./src/scss/functions.scss"  
+  ],
+  "addCssAfter": [],
+  "singleCompiled": [],
+  "addJsBefore": [],
+  "addJsAfter": [],
+  "addImages": [],
+  "copiedCss": [],
+  "copiedJs": [],
+  "dirs": {
+    "srcPath": "./src/",
+    "buildPath": "./build/",
+    "blocksDirName": "blocks"
+  }
+}
